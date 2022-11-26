@@ -11,3 +11,5 @@ Then another menu comes that gives out categories of services it offers
 
 
 Then it goes on.
+
+The categories has to be able to show and give you a currency to select from just as youre able to select from the languages
