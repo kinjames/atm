@@ -17,4 +17,4 @@ The categories has to be able to show and give you a currency to select from jus
 This will basically just convert the currency with the current rate and give you the equivalent
 
 
-all
+all will be created using f
